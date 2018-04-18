@@ -23,3 +23,8 @@
       }
       return newFacts;
     }
+    
+  function iLoveTheBeatles() {
+    var love = [];
+    
+  }
