@@ -25,11 +25,10 @@
     }
     
   function iLoveTheBeatles(i) {
-    var love = [];
+    var loveList = [];
     do { love.push("I love the Beatles"); i++;
     }
   while (i < 15)
-  }
-  return love
+  return loveList;
   }
   
